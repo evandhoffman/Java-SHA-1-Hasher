@@ -1,0 +1,4 @@
+A library to facilitate calculating SHA-1 hashes of Files, InputStreams,
+Strings.  Also includes a byte-array-to-hex-string utility to display
+the hash in semi-human-readable form.
+
